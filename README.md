@@ -2,7 +2,7 @@
 # WhiteHats Application - Management Domain
 
 ## 1. Name
-Anushree M M
+Anushree M 
 
 ## 2. Why I Want to Join WhiteHats
 I want to tie all our club domains together bringing it onto a synchronized stage. Honestly, this makes you feel like you are not just a part, but the whole of the team. In my perspective and experience, solid management makes every event truly fulfilled.
